@@ -1,0 +1,17 @@
+C:\Users\malco\source\repos\Attendance system\Attendance system\bin\Debug\Attendance system.exe.config
+C:\Users\malco\source\repos\Attendance system\Attendance system\bin\Debug\Attendance system.exe
+C:\Users\malco\source\repos\Attendance system\Attendance system\bin\Debug\Attendance system.pdb
+C:\Users\malco\source\repos\Attendance system\Attendance system\bin\Debug\MetroFramework.dll
+C:\Users\malco\source\repos\Attendance system\Attendance system\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\malco\source\repos\Attendance system\Attendance system\obj\Debug\Attendance system.csproj.AssemblyReference.cache
+C:\Users\malco\source\repos\Attendance system\Attendance system\obj\Debug\Attendance system.csproj.SuggestedBindingRedirects.cache
+C:\Users\malco\source\repos\Attendance system\Attendance system\obj\Debug\Attendance_system.MainForm.resources
+C:\Users\malco\source\repos\Attendance system\Attendance system\obj\Debug\Attendance_system.LoginForm.resources
+C:\Users\malco\source\repos\Attendance system\Attendance system\obj\Debug\Attendance_system.Properties.Resources.resources
+C:\Users\malco\source\repos\Attendance system\Attendance system\obj\Debug\Attendance system.csproj.GenerateResource.cache
+C:\Users\malco\source\repos\Attendance system\Attendance system\obj\Debug\Attendance system.csproj.CoreCompileInputs.cache
+C:\Users\malco\source\repos\Attendance system\Attendance system\obj\Debug\Attendance system.csproj.CopyComplete
+C:\Users\malco\source\repos\Attendance system\Attendance system\obj\Debug\Attendance system.exe
+C:\Users\malco\source\repos\Attendance system\Attendance system\obj\Debug\Attendance system.pdb
+C:\Users\malco\source\repos\Attendance system\Attendance system\obj\Debug\Attendance_system.FormAddClass.resources
+C:\Users\malco\source\repos\Attendance system\Attendance system\obj\Debug\Attendance_system.StudentsForm.resources
